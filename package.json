@@ -1,0 +1,22 @@
+{
+  "name": "anticoronavirus2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "anticoronavirus2": "game.js"
+  },
+  "dependencies": {
+    "random-js": "^2.1.0",
+    "tslib": "^1.10.0"
+  },
+  "devDependencies": {
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hwei",
+  "license": "ISC"
+}
